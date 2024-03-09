@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Gaining access to a web server]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/JaySeeram/Gaining-Access-to-a-Web-Server))
+- [Gaining access to a web server]([https://github.com/JaySeeram/Gaining-Access-to-a-Web-Server])
 
 <h2>📺 Popular YouTube Videos</h2>
 
