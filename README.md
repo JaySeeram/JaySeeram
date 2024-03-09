@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vijay! <br/>Programmer, Cybersecurity Professional</h1>
 
-<h2>👨‍💻🛠️ Cyber Security Projects:</h2>
+<h2>🛠️ Cyber Security Projects:</h2>
 
 - [Gaining access to a web server](https://github.com/JaySeeram/Gaining-Access-to-a-Web-Server)
 
