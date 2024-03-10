@@ -21,7 +21,7 @@
 
 [twitter]: https://twitter.com/jayseeram03
 [youtube]: https://www.youtube.com/channel/UCvz0gh0u0OlVqAxpyNCRlHw
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/vjaycodes/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
