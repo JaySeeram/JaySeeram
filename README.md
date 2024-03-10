@@ -5,7 +5,7 @@
 <h2>🛠️ Cyber Security Projects:</h2>
 
 - [Gaining access to a web server](https://github.com/JaySeeram/Gaining-Access-to-a-Web-Server)
-- 
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src=https://imgur.com/qsqE8xR.png />][youtube]
