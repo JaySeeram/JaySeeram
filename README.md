@@ -1,5 +1,6 @@
 ![logo](https://github.com/JaySeeram/JaySeeram/blob/main/Github%20Banner.png)
-<h1>Hi, I'm Vijay! <br/>Programmer, Cybersecurity Professional</h1>
+<h1 align="center">Hi 👋, I'm Vijay!</h1>
+<h2 align="center">A Programmer, Cyber Security Professional</h2>
 
 <h2>🛠️ Cyber Security Projects:</h2>
 
