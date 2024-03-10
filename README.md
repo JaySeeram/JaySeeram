@@ -14,10 +14,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://imgur.com/a/oICEcV5" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src=https://imgur.com/qsqE8xR.png />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src=https://imgur.com/Cu9syns.png />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src=https://imgur.com/4CrRGbp.png />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src=https://imgur.com/EuPObyI.png />][instagram]
 
 [twitter]: https://twitter.com/jayseeram03
 [youtube]: https://www.youtube.com/channel/UCvz0gh0u0OlVqAxpyNCRlHw
