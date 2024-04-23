@@ -5,6 +5,7 @@
 <h2>🛠️ Cyber Security Projects:</h2>
 
 - [Gaining access to a web server](https://github.com/JaySeeram/Gaining-Access-to-a-Web-Server)
+- [Session hijacking with MITM attack](https://github.com/JaySeeram/Session_Hijacking_with_MITM_Attack)
 
 <h2> 🤳 Connect with me:</h2>
 
