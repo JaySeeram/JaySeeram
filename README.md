@@ -2,7 +2,19 @@
 <h1 align="center">Hi 👋, I'm Vijay!</h1>
 <h3 align="center">A Programmer, Cyber Security Professional</h2>
 
-<h2>🛠️ Cyber Security Projects:</h2>
+### 🧰 Languages & Tools
+
+
+<img align="left" alt="Java" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Java Script" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java Script" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Java Script" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Java Script" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<br />
+
+#
+
+### 🗃️ Projects
 
 - [Gaining access to a web server](https://github.com/JaySeeram/Gaining-Access-to-a-Web-Server)
 - [Session hijacking with MITM attack](https://github.com/JaySeeram/Session_Hijacking_with_MITM_Attack)
@@ -17,7 +29,7 @@
 [twitter]: https://twitter.com/jayseeram03
 [youtube]: https://www.youtube.com/channel/UCvz0gh0u0OlVqAxpyNCRlHw
 [instagram]: https://www.instagram.com/vjaycodes/
-[linkedin]: LinkedIn
+[linkedin]: https://www.linkedin.com/in/vijay-kumar-19b885303/overlay/contact-info/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
