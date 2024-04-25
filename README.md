@@ -29,7 +29,7 @@
 [twitter]: https://twitter.com/jayseeram03
 [youtube]: https://www.youtube.com/channel/UCvz0gh0u0OlVqAxpyNCRlHw
 [instagram]: https://www.instagram.com/vjaycodes/
-[linkedin]: https://www.linkedin.com/in/vijay-kumar-19b885303/overlay/contact-info/
+[linkedin]: https://www.linkedin.com/in/vijay-kumar-19b885303/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
