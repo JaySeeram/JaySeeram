@@ -19,6 +19,7 @@
 - [LLMNR Poisoning](https://github.com/JaySeeram/LLMNR_Poisoning)
 - [Simple Keylogger](https://github.com/JaySeeram/PRODIGY_CS_04)
 - [Network Packet Analyzer](https://github.com/JaySeeram/PRODIGY_CS_05)
+- [Password Complexity Checker](https://github.com/JaySeeram/PRODIGY_CS_03)
 
 <h2> 🤳 Connect with me:</h2>
 
