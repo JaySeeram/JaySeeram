@@ -20,6 +20,7 @@
 - [Simple Keylogger](https://github.com/JaySeeram/PRODIGY_CS_04)
 - [Network Packet Analyzer](https://github.com/JaySeeram/PRODIGY_CS_05)
 - [Password Complexity Checker](https://github.com/JaySeeram/PRODIGY_CS_03)
+- [Pixel Manipulation for Image Encryption](https://github.com/JaySeeram/PRODIGY_CS_02)
 
 <h2> 🤳 Connect with me:</h2>
 
